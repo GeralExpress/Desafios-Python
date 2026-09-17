@@ -1,4 +1,10 @@
-# Desafios Python 🐍
+<h1 align="center">
+  Desafios Python
+</h1>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="70" alt="Python">
+</p>
 
 Repositório dedicado a desafios e exercícios desenvolvidos durante meus estudos de **Python e lógica de programação**.
 
@@ -28,4 +34,4 @@ Os desafios estão separados de acordo com os principais conceitos praticados:
 
 Este repositório será atualizado conforme avanço nos estudos e desenvolvo novas soluções.
 
-Alguns desafios podem possuir abordagens diferentes, permitindo acompanhar minha evolução na resolução de problemas.
+Alguns desafios apresentam diferentes abordagens de resolução, permitindo acompanhar minha evolução na lógica e na construção de algoritmos.
